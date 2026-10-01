@@ -1,0 +1,3 @@
+Visual morphological classification of each galaxy. 
+
+Classifies as ellipticals, lenticular or spiral. Not every galaxy has an agreed upon or clear classification. See schema (samiDR3VisualMorphology_schema.csv) for details on what each column represents.
