@@ -1,0 +1,3 @@
+SAMI input catalogue for GAMA regions. 
+
+GAMA is a previous galaxy survey and SAMI did some follow-up work on interesting galaxies identified in the original GAMA survey. This table contains galaxies that are common across both SAMI and GAMA. The table contains basic information relating to the galaxies, such as ra, dec, sizes and masses. See schema (InputCatGAMADR3_schema.csv) for details on what each column represents.

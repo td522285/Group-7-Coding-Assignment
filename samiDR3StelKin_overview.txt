@@ -1,0 +1,3 @@
+SAMI Stellar kinematic measurements catalogue.
+
+Contains information relating to the kinematics of the SAMI galaxies. This table has both isolated galaxies and galaxies in clustered regions. See schema (samiDR3StelKin_schema.csv) for details on what each column represents.

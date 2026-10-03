@@ -1,0 +1,3 @@
+SAMI input catalogue for cluster regions. 
+
+These are galaxies which exist in clustered environments (lots of galaxies in the same region). We do not have IFS kinematic maps for these galaxies. But there may be some interesting information here. Kinematic information for these galaxies may still exist in the “samiDR3StelKin” folder. See schema (samiDR3InputCatClusters_schema.csv) for details on what each column represents.
